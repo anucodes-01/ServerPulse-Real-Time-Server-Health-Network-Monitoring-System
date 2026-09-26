@@ -1,0 +1,11 @@
+{
+    "cpu_warning": 75,
+    "cpu_critical": 90,
+    "memory_warning": 75,
+    "memory_critical": 90,
+    "disk_warning": 80,
+    "disk_critical": 95,
+    "latency_warning_ms": 150,
+    "history_file": "history.csv",
+    "max_history_points": 50
+}
